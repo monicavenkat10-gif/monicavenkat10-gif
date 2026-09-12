@@ -1,4 +1,10 @@
 ## Hi there 👋
+I’m currently working on: First-year CSE (QC) coursework at Amrita University & foundational Python projects
+​👯 I’m looking to collaborate on: Beginner-friendly open-source projects, basic data structures, & C++ / Python coding
+​🤝 I’m looking for help with: Understanding quantum mechanics basics & mastering linear algebra for quantum computing
+​🌱 I’m currently learning: Quantum Computing fundamentals, Python, Data Structures, & C++
+​💬 Ask me about: First-year B.Tech life at Amrita, CSE (QC), & entry-level programming
+​⚡ Fun fact: I'm exploring how qubits can process information faster than traditional bits!
 
 <!--
 **monicavenkat10-gif/monicavenkat10-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
